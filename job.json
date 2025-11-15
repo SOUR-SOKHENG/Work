@@ -3,7 +3,7 @@
       "id": 1,
       "company": {
         "name": "ABA Bank",
-        "logo": "/images/logos/aba-bank.png"
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/65/19/386519cf-3588-bb08-fda0-6ca242f2f5cc/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/1200x630wa.jpg"
       },
       "job_title": "Frontend Developer",
       "job_type": "Full-time",
@@ -40,7 +40,7 @@
       "id": 2,
       "company": {
         "name": "Lucky Market",
-        "logo": "/images/logos/lucky-market.png"
+        "logo": "https://www.dfilucky.com/logo.png"
       },
       "job_title": "Store Supervisor",
       "job_type": "Full-time",
